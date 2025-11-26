@@ -17,8 +17,22 @@ Open the file directory of your Elden Ring Nightreign Game:
 
 For Example: G:\SteamLibrary\steamapps\common\ELDEN RING NIGHTREIGN\Game
 
-Alternatively you can just browse local files of the game through Steam.
+*Alternatively you can just browse local files of the game through Steam.*
 
-Open the .zip file you just downloaded and drag the ELDEN VIS NIGHTREIGN folder into the game directory (same directory with nightreign.exe)
+Open the .zip file you just downloaded and drag the ELDEN VINS NIGHTREIGN folder into the game directory (same directory with nightreign.exe)
+
+![directory](src/img/directory.png)
 
 ## Step 3
+
+I would Pin the ELDEN VINS NIGHTREIGN folder to your quick access side bar on the file explorer for convenience. 
+
+![sidebar](src/img/sidebar.png)
+
+Assuming that you have now installed the modpack and me3, you can now head into the ELDEN VINS NIGHTREIGN folder and click on the ELDEN VINS NIGHTREIGN.me3 files to start up your game. A console window should appear and the game should launch. 
+
+## Step 4: Post Installation/In-Game Instructions
+
+Complete the tutorial of the game. Not sure if there is a faster way to complete this. Just speed-run and die in the beginning. 
+
+In order to connect with each other, we will need to input a "Multiplayer Password" to join the same game. The password is: ### d3thsqd
