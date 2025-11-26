@@ -21,7 +21,7 @@ This is a curated modpack that aims to better improve the experience of Elden Ri
 
 | Table of Contents             | 
 | ----------------------------- |
-| [INSTALLATION (NEW USER)](./installation-new-user.md) |
+| [INSTALLATION (NEW USER)](./installation.md) |
 
 
 
