@@ -11,10 +11,25 @@ This is a curated modpack that aims to better improve the experience of Elden Ri
 
 ### Changes:
 - All players now visible at the Roundtable Hold
+  
 - Most weapon classes have a completely new moveset, ashes or war and spells were reworked from making them faster to completely new interpretations, all using a massive amount of new animations from other action games.
+  
 - The movement speed has been slightly increased, and changed animations for dodge, backstep and run for the ones that don’t have unique animations for it. Also new animations for throwable items, and most consumables can be used on movement.
+  
 - Considering attacks are much faster now, damage has been scaled down a little to help balance the flow of gameplay.
+  
 - Successively hitting enemies, deflecting and perfect dodging grabs will increase your Style Rank. Each rank, you’ll get an attack boost: the higher the rank, the more your attack increases. Reaching the last rank will make your body glow with white lightning, which will let you consume all your Style by unleashing an Ultimate Attack by pressing the heavy attack input with your right hand weapon, which will deal a ton of damage (in case of the bow or staff/seal, you have to do the Ultimate Art input instead of heavy attack). Most weapon classes have their own ultimate. Keep in mind the Style gauge is always decreasing, so you’ll have to play aggressive to reach the highest ranks. Spells, arrows or other projectiles don’t usually gain as much Style as melee weapons, but they are very useful to keep your Style from decreasing. The “Style Rank Meter” talisman enables this mechanic, and every hero starts with it. All weapons types can use the Ultimate Attack except whips, torches, handguns and shields. Perfectly dodging grabs will give you a lot of Style.
+  
+- Added +60 new passives you can get as rewards from bosses - Can be passives that enhance a weapon class, others enhance the Nightfarer's skill﻿s, or a powerful buff attached to a curse! All of them are really powerful, and meant to be combined between them to achieve fun synergies!
+  
+![passive](src/img/passive.png)
+
+- 10 New Challenges to add variety to your runs! Complete a Trial to unlock the next one, and unlock new visual effects cosmetics the first time you beat a Trial. Complete some Trials with 3 different characters to unlock even more effects!
+
+![trials](src/img/trials.png)
+
+- New weapons, spells, ashes of war and greases that can drop in expeditions.
+  
 - New Outfits
 
 ## :pushpin: START HERE :pushpin:
