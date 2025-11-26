@@ -42,4 +42,4 @@ This is a curated modpack that aims to better improve the experience of Elden Ri
 
 ## REQUIRED FILES
 
-[**ER-NR-V1.0**](https://drive.google.com/file/d/1qwu95uhiItuXr5IXIHcH15A_dPP9DOu8/view?usp=sharing)
+[**ER-NR-V1.0**](https://drive.google.com/file/d/1jxzvG5WEDHf-5IY7RztRmq5quyWVzMmS/view?usp=sharing)
