@@ -9,7 +9,7 @@
 ## About The Mod
 This is a curated modpack that aims to better improve the experience of Elden Ring Nightreign. Introducing features from SEAMLESS CO-OP and Elden Vins, this modpack aims to change the dynamic of gameplay by adding several features to help improve the flow of gameplay amongst the Nighfarers. 
 
-##Changes:
+### Changes:
 - All players now visible at the Roundtable Hold
 - Most weapon classes have a completely new moveset, ashes or war and spells were reworked from making them faster to completely new interpretations, all using a massive amount of new animations from other action games.
 - The movement speed has been slightly increased, and changed animations for dodge, backstep and run for the ones that don’t have unique animations for it. Also new animations for throwable items, and most consumables can be used on movement.
