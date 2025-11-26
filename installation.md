@@ -8,7 +8,7 @@ There are some prerequisites that you will need for the installation process.
 ![me3](src/img/me3.png)
    
 ## Step 1
-Head to the releases page of Elden Ring Nightfarer's Revenge here
+Download the .zip file of Elden Ring Nightfarer's Revenge through a Google Drive Link: [here](https://drive.google.com/file/d/1qwu95uhiItuXr5IXIHcH15A_dPP9DOu8/view?usp=sharing)
 
 Download the .zip file anywhere on your desktop.
 
