@@ -33,6 +33,15 @@ Assuming that you have now installed the modpack and me3, you can now head into 
 
 ## Step 4: Post Installation/In-Game Instructions
 
+When launching your game, you should see a new Title Screen showing the Elden Vins as well as Seamless Co-Op at the bottom right to confirm that the mods are working. 
+
+![confirm](src/img/confirm.png)
+
 Complete the tutorial of the game. Not sure if there is a faster way to complete this. Just speed-run and die in the beginning. 
 
-In order to connect with each other, we will need to input a "Multiplayer Password" to join the same game. The password is: ### d3thsqd
+In order to connect with each other, we will need to input a "Multiplayer Password" to join the same game. The password is: **d3thsqd**
+![password](src/img/password.png)
+
+Receive an invite. 
+
+## ENJOY!
