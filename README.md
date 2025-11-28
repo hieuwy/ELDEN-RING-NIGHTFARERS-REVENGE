@@ -90,7 +90,7 @@ In order to connect with each other, we will need to input a "Multiplayer Passwo
 
 Receive an invite. 
 
-## ENJOY!
+### <code style="color : greenyellow">ENJOY!</code>
 
 ## KNOWN ISSUES
 
