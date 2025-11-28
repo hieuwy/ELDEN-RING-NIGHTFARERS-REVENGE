@@ -43,3 +43,7 @@ This is a curated modpack that aims to better improve the experience of Elden Ri
 ## REQUIRED FILES
 
 [**ER-NR-V1.0**](https://drive.google.com/file/d/1jxzvG5WEDHf-5IY7RztRmq5quyWVzMmS/view?usp=sharing)
+
+## KNOWN ISSUES
+
+- Crashes with Augur boss upon stepping into final boss door.  (This is an issue with the base game. Users are experiencing crashes during boss fights due to most likely an excess in particles. While there are no fixes at this moment, expect a fix with the next base game patch.) 
