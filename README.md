@@ -13,6 +13,7 @@ This is a curated modpack that aims to better improve the experience of Elden Ri
 
 - Forsaken Hollows DLC Update has broken Elden Vins Nightreign temporarily until the mod updates. As of now,  **PLEASE DELETE YOUR ELDEN VINS NIGHREIGN FOLDER** and download the Seamless Co-Op update [here](https://www.nexusmods.com/eldenringnightreign/mods/3?tab=posts) 
 - Drag and Drop Files into your Nightreign directory, Overwrite anything if it asks.
+- Launch the nrsc_launcher.exe
 - PLAY!
 
 ### Changes:
