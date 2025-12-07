@@ -9,6 +9,12 @@
 ## About The Mod
 This is a curated modpack that aims to better improve the experience of Elden Ring Nightreign. Introducing features from SEAMLESS CO-OP and Elden Vins, this modpack aims to change the dynamic of gameplay by adding several features to help improve the flow of gameplay amongst the Nighfarers. 
 
+## Forsaken Hollows Update! (PLEASE READ)
+
+- Forsaken Hollows DLC Update has broken Elden Vins Nightreign temporarily until the mod updates. As of now,  **PLEASE DELETE YOUR ELDEN VINS NIGHREIGN FOLDER** and download the Seamless Co-Op update [here](https://www.nexusmods.com/eldenringnightreign/mods/3?tab=posts) 
+- Drag and Drop Files into your Nightreign directory, Overwrite anything if it asks.
+- PLAY!
+
 ### Changes:
 - All players now visible at the Roundtable Hold
   
