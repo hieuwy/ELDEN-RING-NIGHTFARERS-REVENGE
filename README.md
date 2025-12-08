@@ -20,22 +20,39 @@ This is a curated modpack that aims to better improve the experience of Elden Ri
 - While solely playing Seamless Co-op, you are able to add the .exe file to steam as a "Non-Steam game". This will allow you to easier launch the game without having to go into you game directory all of the time. Here's how to do it.
 
 - Open your steam and at the bottom left hand corner, click on the "+ Add a Game".
+
+  
 ![ns](src/img/non-steam.png)
 
+
 - Select "Add a Non-Steam Game".
+
+  
 ![add](src/img/add-non.png)
 
 - Click "Browse":
+
+  
 ![browse](src/img/browse.png)
 
+
 - Locate your Elden Ring Nightreign Directory, Select the "nrsc_launcher.exe".
+
+  
 ![nrsc](src/img/nrsc.png)
 
+
 -  Add the selected program.
+
+  
 ![addprogram](src/img/addprogram.png)
 
+
 - You should be all set! You can also go to https://www.steamgriddb.com/game/5473447 to find custom artworks so that you can easily identify your game in your library. I would find a Grid, Hero, and Logo. Now your game should look like this on steam:
+
+  
 ![ernrsc](src/img/ernrsc.png)
+
 
 ![hero](src/img/hero.png)
 
